@@ -5,7 +5,7 @@ This is a basic Hello World file generated in python. I created this to demonstr
 
 Below is a link to my walk through video explaining the Python code and how to push that code to GitHub. 
 
-[Software/VS Code/GitHub Demo Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Software/VS Code/GitHub Demo Video](https://youtu.be/y3J87o5x_aw)
 
 # Development Environment
 
